@@ -6,8 +6,11 @@ The script creates the project on the desktop by default (that is normally where
 I hope this script is usefull to others and if you want to make modifications please do so and submit the changes back - I'd like to create a repo of automated batch scripts for small projects.
 
 ### How to use it
+
 Step 1: Save the `create_project.bat` file to your computer (It doesn't matter where, I generally keep mine on my desktop)
+
 Step 2: Open CMS (windows command line) navigate to the location where you saved the script
+
 Step 3: Run the script (optionally you can add a name for your project)
 
 ### Example
@@ -26,6 +29,7 @@ If you just run the script without specifying a project name then it will create
 ![no name specified project](https://i.imgur.com/oPYVSvT.png)
 
 ### Project Structure
+
 +---project_name
 \-----app
       \---init.php
