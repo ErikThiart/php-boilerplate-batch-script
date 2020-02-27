@@ -1,6 +1,6 @@
 @echo off 
-:: This script is a hsortcut for me for small PHP projects.
-:: It creates a project directory with my boiletplate layout and adds the PHP server file in the root
+:: This script is a shortcut for me to create a project folder for small PHP projects thta I work on.
+:: It creates a project directory with my boiletplate layout and adds the PHP server file in the root.
 :: The PHP server file listens on port 1234 and serves from /public_html
 
 :: set the project name
