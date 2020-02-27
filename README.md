@@ -1,3 +1,6 @@
+
+
+
 ## php-boilerplate-batch-script
 This windows batch script creates the files and folders needed to start a PHP project. This batch script also creates a PHP server file that listens on port 1234 and serves the content from public_html inside the project. More info you can contact me [erikthiart.com](https://erikthiart.com "Erik Thiart's Homepage")
 
@@ -15,7 +18,8 @@ Step 3: Run the script (optionally you can add a name for your project)
 
 ### Example
 <h4>Specified Project Name</h4>
-Run the script in CMD `script.bat project_name`
+
+Run the script in CMD `<script>.bat project_name`
 
 ![specify name in CMD](https://i.imgur.com/w8AsNew.png)
 
