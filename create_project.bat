@@ -18,7 +18,7 @@ md app
 md public_html
 :: create the PHP server script in the projects dir
 echo cd public_html >server.bat
-echo php -S localhost:1234 >server.bat
+echo php -S localhost:1234 >>server.bat
 :: create the sub directories on public_html
 cd public_html
 md img
