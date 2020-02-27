@@ -15,7 +15,7 @@ Step 3: Run the script (optionally you can add a name for your project)
 
 ### Example
 <h4>Specified Project Name</h4>
-Run the script in CMD `<script>.bat project_name`
+Run the script in CMD `script.bat project_name`
 
 ![specify name in CMD](https://i.imgur.com/w8AsNew.png)
 
@@ -30,6 +30,7 @@ If you just run the script without specifying a project name then it will create
 
 ### Project Structure
 
+```
 +---project_name
 \-----app
       \---init.php
@@ -39,6 +40,7 @@ If you just run the script without specifying a project name then it will create
       \---index.php
       \---footer.php
 \-----server.bat
+```
 
 ![root directory tree](https://i.imgur.com/YKDFeTi.png)
 
