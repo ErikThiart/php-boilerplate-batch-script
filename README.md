@@ -12,7 +12,7 @@ I hope this script is usefull to others and if you want to make modifications pl
 
 Step 1: Save the `create_project.bat` file to your computer (It doesn't matter where, I generally keep mine on my desktop)
 
-Step 2: Open CMS (windows command line) navigate to the location where you saved the script
+Step 2: Open CMD (windows command line) navigate to the location where you saved the script
 
 Step 3: Run the script (optionally you can add a name for your project)
 
